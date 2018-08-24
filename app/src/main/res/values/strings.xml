@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Josh Assignment</string>
+    <string name="error_msg">No Data Available</string>
+    <string name="internet_error">Please check your internet</string>
+    <string name="sort_by">Sort By</string>
+    <string name="filter">Filter</string>
+    <string name="order_by">Order By</string>
+    <string name="likes">Likes</string>
+    <string name="share">Share</string>
+    <string name="view">View</string>
+    <string name="date">Date</string>
+    <integer-array name="google_colors">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+    </integer-array>
+    <string-array name="url">
+        <item>http://www.mocky.io/v2/59b3f0b0100000e30b236b7e</item>
+        <item>http://www.mocky.io/v2/59ac28a9100000ce0bf9c236</item>
+        <item>http://www.mocky.io/v2/59ac293b100000d60bf9c239</item>
+    </string-array>
+</resources>
